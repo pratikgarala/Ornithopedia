@@ -1,0 +1,31 @@
+/* ===========================
+--- Stats
+============================ */
+
+#stats {
+    /*background: url(../images/Birds/birdsBackground1.png),url(../images/Birds/birdsBackground2.png);*/
+    background-color: #d35400;
+    background-attachment:fixed;
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
+    color:#fff;
+}
+
+#stats .numscroller{
+    font-size:45px;
+    font-family: 'nunito',sans-serif;
+    font-weight: 700;
+    margin-top:-13px;
+}
+
+#stats h5{
+    color:#fff;
+    margin: 0;
+}
+
+#stats .row hr{
+    margin-top: 0;
+    margin-bottom: 16px;
+    max-width:60px;
+    border-top: dashed 1px;
+}
